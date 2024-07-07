@@ -1,4 +1,0 @@
-dependencies:
-  espressif/esp_websocket_client: "^1.2.2"
-  espressif/esp_lcd_touch_ft5x06: "^1.0.6"
-  lvgl/lvgl: "~8.3.0"
